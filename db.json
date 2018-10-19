@@ -1,0 +1,64 @@
+{
+	"cursos": [
+		{ 
+			"id": "1", 
+			"nome": "Medicina", 
+			"grau_academico": "Bacharelado",
+			"url": "https://pt.wikipedia.org/wiki/Medicina"
+		},
+		{ 
+			"id": "2", 
+			"nome": "História", 
+			"grau_academico": "Licenciatura",
+			"url": "https://pt.wikipedia.org/wiki/História"
+		},
+		{ 
+			"id": "3", 
+			"nome": "Engenharia Civil", 
+			"grau_academico": "Bacharelado",
+			"url": "https://pt.wikipedia.org/wiki/Engenharia_civil"
+		},
+		{ 
+			"id": "4", 
+			"nome": "Enfermagem", 
+			"grau_academico": "Bacharelado",
+			"url": "https://pt.wikipedia.org/wiki/Enfermagem"
+		},
+		{ 
+			"id": "5", 
+			"nome": "Sistemas de Informação", 
+			"grau_academico": "Bacharelado",
+			"url": "https://pt.wikipedia.org/wiki/Sistema_de_informação"
+		},
+		{ 
+			"id": "6", 
+			"nome": "Analise de Sistemas", 
+			"grau_academico": "Tecnólogo",
+			"url": "https://pt.wikipedia.org/wiki/Análise_de_sistemas"
+		},
+		{ 
+			"id": "7", 
+			"nome": "Direito", 
+			"grau_academico": "Bacharelado",
+			"url": "https://pt.wikipedia.org/wiki/Direito"
+		},
+		{ 
+			"id": "8", 
+			"nome": "Design", 
+			"grau_academico": "Bacharelado",
+			"url": "https://pt.wikipedia.org/wiki/Design"
+		},
+		{ 
+			"id": "9", 
+			"nome": "Engenharia Elétrica", 
+			"grau_academico": "Bacharelado",
+			"url": "https://pt.wikipedia.org/wiki/Engenharia_elétrica"
+		},
+		{ 
+			"id": "10", 
+			"nome": "Matemática", 
+			"grau_academico": "Licenciatura",
+			"url": "https://pt.wikipedia.org/wiki/Matemática"
+		}
+	]
+}
